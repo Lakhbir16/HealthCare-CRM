@@ -1,0 +1,27 @@
+[
+  {
+    "Name": "New Profile",
+    "Projects": [
+      {
+        "Path": "src\\HealthcareCRM.Domain\\HealthcareCRM.Domain.csproj",
+        "Action": "Start"
+      },
+      {
+        "Path": "src\\HealthcareCRM.Application\\HealthcareCRM.Application.csproj",
+        "Action": "Start"
+      },
+      {
+        "Path": "src\\HealthcareCRM.Infrastructure\\HealthcareCRM.Infrastructure.csproj",
+        "Action": "Start"
+      },
+      {
+        "Path": "src\\HealthcareCRM.API\\HealthcareCRM.API.csproj",
+        "Action": "Start"
+      },
+      {
+        "Path": "tests\\HealthcareCRM.Tests\\HealthcareCRM.Tests.csproj",
+        "Action": "Start"
+      }
+    ]
+  }
+]

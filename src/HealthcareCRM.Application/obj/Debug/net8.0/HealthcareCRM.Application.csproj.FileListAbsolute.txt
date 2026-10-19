@@ -1,0 +1,15 @@
+D:\My Projects\SDD-Project\HealthCare\src\HealthcareCRM.Application\obj\Debug\net8.0\HealthcareCRM.Application.csproj.AssemblyReference.cache
+D:\My Projects\SDD-Project\HealthCare\src\HealthcareCRM.Application\obj\Debug\net8.0\HealthcareCRM.Application.GeneratedMSBuildEditorConfig.editorconfig
+D:\My Projects\SDD-Project\HealthCare\src\HealthcareCRM.Application\obj\Debug\net8.0\HealthcareCRM.Application.AssemblyInfoInputs.cache
+D:\My Projects\SDD-Project\HealthCare\src\HealthcareCRM.Application\obj\Debug\net8.0\HealthcareCRM.Application.AssemblyInfo.cs
+D:\My Projects\SDD-Project\HealthCare\src\HealthcareCRM.Application\obj\Debug\net8.0\HealthcareCRM.Application.csproj.CoreCompileInputs.cache
+D:\My Projects\SDD-Project\HealthCare\src\HealthcareCRM.Application\bin\Debug\net8.0\HealthcareCRM.Application.deps.json
+D:\My Projects\SDD-Project\HealthCare\src\HealthcareCRM.Application\bin\Debug\net8.0\HealthcareCRM.Application.dll
+D:\My Projects\SDD-Project\HealthCare\src\HealthcareCRM.Application\bin\Debug\net8.0\HealthcareCRM.Application.pdb
+D:\My Projects\SDD-Project\HealthCare\src\HealthcareCRM.Application\bin\Debug\net8.0\HealthcareCRM.Domain.dll
+D:\My Projects\SDD-Project\HealthCare\src\HealthcareCRM.Application\bin\Debug\net8.0\HealthcareCRM.Domain.pdb
+D:\My Projects\SDD-Project\HealthCare\src\HealthcareCRM.Application\obj\Debug\net8.0\Healthca.7ABA28A5.Up2Date
+D:\My Projects\SDD-Project\HealthCare\src\HealthcareCRM.Application\obj\Debug\net8.0\HealthcareCRM.Application.dll
+D:\My Projects\SDD-Project\HealthCare\src\HealthcareCRM.Application\obj\Debug\net8.0\refint\HealthcareCRM.Application.dll
+D:\My Projects\SDD-Project\HealthCare\src\HealthcareCRM.Application\obj\Debug\net8.0\HealthcareCRM.Application.pdb
+D:\My Projects\SDD-Project\HealthCare\src\HealthcareCRM.Application\obj\Debug\net8.0\ref\HealthcareCRM.Application.dll
